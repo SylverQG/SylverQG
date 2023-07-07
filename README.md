@@ -3,6 +3,8 @@
 - ToDo
   - [x] [github issues blog (backend)](https://github.com/SylverQG/Blogs)
   - [x] [图床](https://github.com/SylverQG/picrepo): `picgo` + `vscode` [需要上网以保持稳定，已用`cdn加速: https://cdn.jsdelivr.net`]
+  - [x] [基于Notion的博客v1](https://github.com/SylverQG/NotionNext.git) : 使用`Notion`+`vercel` 搭建个人网站,[地址](https://notion-next-kappa-ruby.vercel.app/)
+    - [ ] 如果可以直接使用`Github Pages`来生成部署网站该多好，~~先挖坑~~
   - [ ] github issues blog (frontend) :~: 嗯？也许会做吧
   - [ ] 知识归档  :~: 主号的知识类型有些杂乱，看看找个时间做下归档
 - 未来展望：
