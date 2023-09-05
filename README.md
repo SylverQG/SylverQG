@@ -1,12 +1,14 @@
 - 👋 Hi, I’m @SylverQG，while I’m @[Doublc-Qluv](https://github.com/Doublc-Qluv)
 - 这里是我的小号，用来做一些需要大改动的仓库操作,随后会将这些学习改动更新到主号中去
 - ToDo
-  - [x] [github issues blog (backend)](https://github.com/SylverQG/Blogs)
-  - [x] [图床](https://github.com/SylverQG/picrepo): `picgo` + `vscode` [需要上网以保持稳定，已用`cdn加速: https://cdn.jsdelivr.net`]
+  - [x] [github issues blog (backend)](https://github.com/SylverQG/Blogs.git)
+  - [x] [picgo图床](https://github.com/SylverQG/picrepo.git): `picgo` + `vscode` [需要上网以保持稳定，已用`cdn加速: https://cdn.jsdelivr.net`]
   - [x] [基于Notion的博客v1](https://github.com/SylverQG/NotionNext.git) : 使用`Notion`+`vercel` 搭建个人网站,[地址](https://notion-next-kappa-ruby.vercel.app/)
-    - [ ] 如果可以直接使用`Github Pages`来生成部署网站该多好，~~先挖坑~~
+    - [ ] 如果可以直接使用`Github Pages`来生成部署网站该多好，~~先挖坑~~，但是看`issue`[作者回答似乎是`不可以`](https://github.com/tangly1024/NotionNext/issues/1401)
   - [ ] github issues blog (frontend) :~: 嗯？也许会做吧
-  - [ ] 知识归档  :~: 主号的知识类型有些杂乱，看看找个时间做下归档
+  - [ ] 知识归档
+    - [ ] [基于docsify的知识仓库](https://github.com/SylverQG/docsify.git): `所有转换工作都是在运行时，只需要创建一个 index.html` : [感觉这样会简单一些, 主要可以部署在GithubPages]
+    - [ ] :~: 主号的知识类型有些杂乱，看看找个时间做下归档
 - 未来展望：
   - 没准来个`两级反转`，小号变大号，哈哈哈，~~当作新的开始罢了~~
   - [ ] 找找一些与主线学习无关的知识来学习学习
