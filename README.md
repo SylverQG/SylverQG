@@ -7,7 +7,6 @@
     - [ ] 如果可以直接使用`Github Pages`来生成部署网站该多好，~~先挖坑~~，但是看`issue`[作者回答似乎是`不可以`](https://github.com/tangly1024/NotionNext/issues/1401) 【不过呢有另外的开发者添加了这个[功能](https://bothsavage.github.io/article/240119-notion)】
   - [ ] github issues blog (frontend) :~: 嗯？也许会做吧
   - [ ] 知识归档
-    - [ ] [基于docsify的知识仓库](https://github.com/SylverQG/docsify.git): `所有转换工作都是在运行时，只需要创建一个 index.html` : [感觉这样会简单一些, 主要可以部署在GithubPages]
     - [ ] [vuepress]去做个人知识的总结
     - [ ] :~: 主号的知识类型有些杂乱，看看找个时间做下归档
 - 未来展望：
